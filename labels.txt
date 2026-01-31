@@ -1,0 +1,10 @@
+0 kuda
+1 ikan
+2 kambing
+3 jerapah
+4 ayam jago
+5 kura-kura
+6 sapi
+7 kelinci
+8 Class 9
+9 Class 10
